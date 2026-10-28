@@ -4,7 +4,7 @@ A small desk weather station built with an **ESP32-C3**, a **1.8" colour TFT**, 
 
 It shows indoor temperature and humidity from the DHT sensor, and connects to WiFi to show the **real outdoor weather and rain chance** from an online forecast. The background looks like the real sky and changes with the time of day and the weather. Touch it and a little robot face reacts with different expressions.
 
-> Video tutorial: _add your YouTube link here_
+> Video tutorial: https://youtu.be/DeoHOcDM1t4  
 > Channel: **Maradi Innovations**
 
 <!-- Add a photo of the finished project: ![Project photo](images/project.jpg) -->
